@@ -10,7 +10,7 @@ SRC_URI = "git://github.com/WebPlatformForEmbedded/WPEFrameworkPlugins.git;proto
            file://osmc-devinput-remote.json \
            file://0001-FirmwareControl-Find-cmake-name-changed-from-MFR-to-MFRFW.patch \
            "
-SRCREV = "a84313d0355b3c57033c5e24b9ac927f4bda913b"
+SRCREV = "84e4ae364cb278d064c35aaa194abc0147546793"
 
 # ----------------------------------------------------------------------------
 
